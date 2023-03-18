@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 12",
+    "brand": "Apple",
+    "price": 999,
+    "description": "The latest iPhone model with 5G support and A14 Bionic chip.",
+    "image": "./images/product-1.jpg",
+    "category": "Electronics",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Galaxy S21",
+    "brand": "Samsung",
+    "price": 899,
+    "description": "The latest Samsung flagship phone with 5G support and Exynos 2100 chip.",
+    "image": "./images/product-2.webp",
+    "category": "Electronics",
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "name": "MacBook Pro",
+    "brand": "Apple",
+    "price": 1299,
+    "description": "The latest MacBook Pro with M1 chip and Retina display.",
+    "image": "./images/product-3.webp",
+    "category": "Computers",
+    "rating": 4.9
+  },
+  {
+    "id": 4,
+    "name": "AirPods Pro",
+    "brand": "Apple",
+    "price": 249,
+    "description": "The latest AirPods with noise cancellation and wireless charging case.",
+    "image": "./images/product-4.webp",
+    "category": "Electronics",
+    "rating": 4.8
+  }
+]
